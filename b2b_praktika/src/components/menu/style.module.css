@@ -1,0 +1,22 @@
+.fullEj1>button {
+    position: absolute;
+    width: 83px;
+    height: 17px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #000000;
+
+}
+
+.fullEj1 {
+    position: absolute;
+    width: 657px;
+    height: 384px;
+
+    background: #FFFFFF;
+}

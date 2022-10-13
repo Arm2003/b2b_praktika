@@ -1,0 +1,25 @@
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.fullEj table {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 605px;
+    height: 306px;
+
+    background: #F8F8F8;
+    border: 1px solid #000000;
+
+}
+
+.fullEj {
+    position: absolute;
+    width: 657px;
+    height: 384px;
+
+    background: #FFFFFF;
+}
